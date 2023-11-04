@@ -14,6 +14,14 @@
     "categories": {
       "api": {
         "reactamplified": {}
+      },
+      "auth": {
+        "reactamplified08a2b42b": {
+          "userPoolId": "eu-west-1_7FTla2ZcK",
+          "userPoolName": "authpool",
+          "webClientId": "2nbutn4e3qv602vfi0qbsnrp4",
+          "nativeClientId": "2nbutn4e3qv602vfi0qbsnrp4"
+        }
       }
     }
   }
